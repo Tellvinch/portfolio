@@ -28,13 +28,13 @@ html {
     color: lightcoral;
 }
 
-.interest {
-    color: lightgrey;
+.interests p {
+    color:lightsalmon;
 }
 
 .sidebar {
-    
-    background-color:khaki;
+      
+    background-color:rgb(64, 168, 216);
     color: mediumblue;
     font-size: 35px;
     width: 200px;
@@ -54,8 +54,9 @@ html {
 
 
 @media screen and (min-width: 480px) and (max-width: 760px) {
-    .container {
-        color:lightblue;
+    .container  {
+        color:white;
+        background-color: lightskyblue;
         
-    }
+    
 }
