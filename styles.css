@@ -9,10 +9,9 @@
 }
 
 .container h1 {
-    border: lightgreen;
+    border:3px lightgreen ;
     color: lightskyblue;
     text-align: center;
-    text-decoration: lightskyblue;
     font-style: inherit;
 }
 
