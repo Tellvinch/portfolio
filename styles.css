@@ -1,3 +1,8 @@
+html {
+    border: lightgreen;
+}
+
+
 .container {
     background-image: url("a745.jpg");
     color: khaki;
@@ -9,10 +14,10 @@
 }
 
 .container h1 {
-    border:3px lightgreen ;
     color: lightskyblue;
     text-align: center;
     font-style: inherit;
+    
 }
 
 .links {
@@ -34,6 +39,7 @@
     font-size: 35px;
     width: 200px;
     margin: 20px;
+    margin-top: 0px;
     padding: 1px;
     float: right;
     height: 1450px;
