@@ -9,6 +9,7 @@
 }
 
 .container h1 {
+    border: lightgreen;
     color: lightskyblue;
     text-align: center;
     text-decoration: lightskyblue;
@@ -29,7 +30,7 @@
 
 .sidebar {
     
-    background-color: lime;
+    background-color:khaki;
     color: mediumblue;
     font-size: 35px;
     width: 200px;
