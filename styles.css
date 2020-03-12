@@ -1,0 +1,55 @@
+.container {
+    background-image: url("a745.jpg");
+    color: khaki;
+    text-align: center;
+    font-weight: bolder;
+    font-size: 22px;
+    width: auto;
+    
+}
+
+.container h1 {
+    color: lightskyblue;
+    text-align: center;
+    text-decoration: lightskyblue;
+    font-style: inherit;
+}
+
+.links {
+    text-align: left;
+}
+
+.about p {
+    color: lightcoral;
+}
+
+.interest {
+    color: lightgrey;
+}
+
+.sidebar {
+    
+    background-color: lime;
+    color: mediumblue;
+    font-size: 35px;
+    width: 200px;
+    margin: 20px;
+    padding: 1px;
+    float: right;
+    height: 1450px;
+}
+
+
+
+
+
+
+
+
+
+@media screen and (min-width: 480px) and (max-width: 760px) {
+    .container {
+        color:lightblue;
+        
+    }
+}
