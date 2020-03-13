@@ -7,7 +7,7 @@ The webpage contains my name,a picture that represents me,links to the different
 *To view this page just click on this [link](https://tellvinch.github.io/portfolio/.)
 
 ## Known Bugs
-There are no bugs
+There are no bugs.
 ## Technologies Used
 Webpage is created using basic html and css.
 ## Support and contact details
