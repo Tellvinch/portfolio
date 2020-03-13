@@ -2,7 +2,7 @@
 Its my first independent project at moringsa school, {13th march 2020}
 #### By **Tellvinch imani**
 ## Description
-The webpage contains my name,a picture that represents me,links to the different projects i have worked on since i started Moringa,an about me section an my interest.
+The webpage contains my name,a picture that represents me,links to the different projects i have worked on since i started Moringa,an about me section an my interest.Its is a colorfull page and very interesting to look at.
 ## Setup/Installation Requirements
 *To view this page just click on this [link](https://tellvinch.github.io/portfolio/.)
 
