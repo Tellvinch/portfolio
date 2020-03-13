@@ -24,6 +24,7 @@ html {
     text-align: left;
 }
 
+
 .about p {
     color: lightcoral;
 }
@@ -39,7 +40,6 @@ html {
     font-size: 35px;
     width: 200px;
     margin: 20px;
-    margin-top: 0px;
     padding: 1px;
     float: right;
     height: 1450px;
