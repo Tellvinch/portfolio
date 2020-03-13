@@ -7,13 +7,13 @@ The webpage contains my name,a picture that represents me,links to the different
 * To view this page just click on this link
 
 ## Known Bugs
-{There are no bugs }
+There are no bugs
 ## Technologies Used
-{The webpage is created using basic html and css}
+ webpage is created using basic html and css
 ## Support and contact details
 {For contact or suggestions email at tellvinchimani@gmail.com}
 ### License
-{
+
 Copyright (c) [2020] [Tellvinch imani]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
