@@ -4,7 +4,7 @@
 ## Description
 The webpage contains my name,a picture that represents me,links to the different projects i have worked on since i started Moringa,an about me section an my interest.
 ## Setup/Installation Requirements
-* To view this page just click on this link
+*To view this page just click on this link
 
 ## Known Bugs
 There are no bugs
@@ -20,4 +20,4 @@ Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
 to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software*
+copies of the Software
