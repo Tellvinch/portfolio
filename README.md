@@ -4,7 +4,7 @@
 ## Description
 The webpage contains my name,a picture that represents me,links to the different projects i have worked on since i started Moringa,an about me section an my interest.
 ## Setup/Installation Requirements
-*To view this page just click on this link
+*To view this page just click on this [link](https://tellvinch.github.io/portfolio/.)
 
 ## Known Bugs
 There are no bugs
