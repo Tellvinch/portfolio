@@ -1,5 +1,5 @@
 # PORTFOLIO LANDING PAGE
-####Its my first independent project at moringsa school, {13th march 2020}
+Its my first independent project at moringsa school, {13th march 2020}
 #### By **Tellvinch imani**
 ## Description
 The webpage contains my name,a picture that represents me,links to the different projects i have worked on since i started Moringa,an about me section an my interest.
@@ -9,9 +9,9 @@ The webpage contains my name,a picture that represents me,links to the different
 ## Known Bugs
 There are no bugs
 ## Technologies Used
- webpage is created using basic html and css
+Webpage is created using basic html and css.
 ## Support and contact details
-{For contact or suggestions email at tellvinchimani@gmail.com}
+For contact or suggestions email at tellvinchimani@gmail.com
 ### License
 
 MIT License
